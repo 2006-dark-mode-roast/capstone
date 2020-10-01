@@ -6,7 +6,10 @@ module.exports = {
 	defaultColor: 'white', // accepted values include ['red', 'blue', 'white', 'green', etc.]
 
 	// setting for accent text and line colors
-	accentColor: 'red', // accepted values include ['red', 'blue', 'white', 'green', etc.]
+  accentColor: 'red', // accepted values include ['red', 'blue', 'white', 'green', etc.]
+  
+  // setting for gitTree text and line colors
+	gitTreeColor: 'white', // accepted values include ['red', 'blue', 'white', 'green', etc.]
 
 	// setting to determine whether app dynamically adjusts to screen resizing; setting to false may improve performance
 	appResize: true, // accepted values include [true, false]

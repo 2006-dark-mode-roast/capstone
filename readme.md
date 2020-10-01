@@ -94,6 +94,9 @@ When you open the file it will look like this:
 * ### **`accentColor`:**
    - This is the color for the app borders as well as some text headers throughout the app.
 
+* ### **`gitTreeColor`:**
+   - This is the color for git tree font throughout the app.
+
 * ### **`appResize`:**
    - This enables the app to be responsive, allowing users to resize their console windows without having to restart the app. This may decrease performance for some users.
 
